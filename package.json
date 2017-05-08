@@ -1,0 +1,25 @@
+{
+  "name": "vue-drapload-person",
+  "version": "0.1.13",
+  "description": "one vue plug for resolve pull-to-refresh and load more data",
+  "main": "src/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:heiyanquan/vue-drapload-person.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-scroll",
+    "vue-infinite-scroll",
+    "vue-drapload-person",
+    "vue-load-more"
+  ],
+  "author": "heiyanquan",
+  "license": "MIT"
+}
