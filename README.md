@@ -1,1 +1,1 @@
-person practice
+person component
